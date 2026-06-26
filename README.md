@@ -2,7 +2,7 @@
 
 Penyusun Proyek: Putri Aulia Rahmah (25032014052)
 Mata Kuliah: Arsitektur dan Sistem Komputer 
-Tautan Video Presentasi: 
+ 
 
 ## Deskripsi Proyek
 Proyek ini merupakan simulasi evaluasi langkah pada permainan Tetris menggunakan pendekatan Heterogeneous Computing.Tujuan dari projek ini yaitu untuk mengevaluasi 64.000 kemungkinan susunan papan (kondisi depth-search) untuk mencari langkah paling optimal berdasarkan heuristik tertentu (tinggi tumpukan, jumlah lubang, dan baris yang terhapus).
